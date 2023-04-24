@@ -1,0 +1,27 @@
+.wrap {
+
+}
+
+.header {
+    height: 100px;
+    border-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contens {
+    height: 624px;
+    background-color: #e6e6e6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    height: 100px;
+    border-color: #d9d9d9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -33,11 +33,10 @@ h1 {
     align-items: center;
     justify-content: space-between;
     width: 1000px;
-    border-color: yellow;
 }
 
 .menu li a {
     display: block;
-    border-color: #ddd;
+    background-color: #ddd;
     padding: 6px 10px;
 }
